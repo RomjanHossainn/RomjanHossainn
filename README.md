@@ -1,10 +1,6 @@
 ### Hi there 👋
 # I'm Md Romjan Hossain Ornob (Frontend Developer)
-
-
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ail3xu6wb96ovw578ie287zk23z6nucklgwkgz2d&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="">
  
-
 #### As a passionate and skilled frontend React.js developer, I excel in creating dynamic and responsive user interfaces. My expertise includes crafting efficient and elegant code for seamless user experiences.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Romjan Hossain Ornob) 
@@ -15,6 +11,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=RomjanHossainn&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RomjanHossainn&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RomjanHossainn&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<div>
+   <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?  cid=ecf05e47ail3xu6wb96ovw578ie287zk23z6nucklgwkgz2d&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="">
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RomjanHossainn&limit=5&theme=dark&combine_all_yearly_contributions=true)
