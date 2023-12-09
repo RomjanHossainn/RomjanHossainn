@@ -1,8 +1,7 @@
 ### Hi there 👋
 # I'm Md Romjan Hossain Ornob(Frontend Developer)
 
-<p>As a passionate and skilled frontend React.js developer, I excel in creating dynamic and responsive user interfaces. My expertise includes crafting efficient and elegant code for seamless user experiences.</p>
-
+######As a passionate and skilled frontend React.js developer, I excel in creating dynamic and responsive user interfaces. My expertise includes crafting efficient and elegant code for seamless user experiences.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Romjan Hossain Ornob) 
 
