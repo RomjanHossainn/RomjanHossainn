@@ -25,9 +25,5 @@
   <img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" alt="">
 </div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RomjanHossainn&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
